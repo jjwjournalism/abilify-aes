@@ -70,7 +70,7 @@ For more details on my analysis, check out my [data diary](https://docs.google.c
 ### Getting started with Jupyter Notebooks
 *Note: This setup is almost identical to what I learned in [Lam Thuy Vo](https://github.com/lamthuyvo)'s data journalism class at the CUNY Graduate School of Journalism. All credit for it goes to her.*
 
-The first step is to get set up with Jupyter inside a virtual environment. Mine is included in the repo for completeness's sake, but you'll probably want to create your own. Here's how:
+The first step is to get set up with Jupyter inside a virtual environment.
 
 Once you've downloaded the notebook, put it in its own folder. In the Terminal, navigate to the new folder (in my case, abilify-aes) and set up a virtual environment using the following command:
 
